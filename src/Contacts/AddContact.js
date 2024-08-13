@@ -48,7 +48,7 @@ function AddContact() {
           <form onSubmit={(e) => submitForm(e)} className="text-center">
             <div className="mb-2">
               <label htmlFor="name" className="form-label">
-                user
+                Name
               </label>
               <input
                 type="text"
